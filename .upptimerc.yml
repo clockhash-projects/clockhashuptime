@@ -5,7 +5,7 @@ repo: clockhashuptime # The name of this repository
 sites:
   - name: Clockhash.com
     url: https://clockhash.com/
-  - name: Wiki
+  - name: Clockhash Wiki
     url: https://wiki.clockhash.com/
   - name: Clockhash API
     url: https://api.clockhash.com/
