@@ -4,19 +4,19 @@
     "url": "https://clockhash.com/",
     "icon": "https://icons.duckduckgo.com/ip3/clockhash.com.ico",
     "slug": "clockhash-com",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 392,
-    "timeDay": 372,
-    "timeWeek": 392,
-    "timeMonth": 392,
-    "timeYear": 392,
+    "status": "up",
+    "uptime": "99.03%",
+    "uptimeDay": "94.65%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "99.03%",
+    "uptimeYear": "99.03%",
+    "time": 381,
+    "timeDay": 335,
+    "timeWeek": 381,
+    "timeMonth": 381,
+    "timeYear": 381,
     "dailyMinutesDown": {
-      "2024-03-20": 1
+      "2024-03-20": 77
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://api.clockhash.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api.clockhash.com.ico",
     "slug": "clockhash-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 568,
-    "timeDay": 415,
-    "timeWeek": 568,
-    "timeMonth": 568,
-    "timeYear": 568,
+    "status": "up",
+    "uptime": "99.04%",
+    "uptimeDay": "94.69%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.04%",
+    "uptimeYear": "99.04%",
+    "time": 560,
+    "timeDay": 459,
+    "timeWeek": 560,
+    "timeMonth": 560,
+    "timeYear": 560,
     "dailyMinutesDown": {
-      "2024-03-20": 0
+      "2024-03-20": 77
     }
   }
 ]
